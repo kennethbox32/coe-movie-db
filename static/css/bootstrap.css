@@ -2788,9 +2788,9 @@ fieldset[disabled] .btn {
   opacity: .65;
 }
 .btn-default {
-  color: #333;
-  background-color: #fff;
-  border-color: #ccc;
+  color: white;
+  background-color: #3399FF;
+  border-color: #3399FF;
 }
 .btn-default:hover,
 .btn-default:focus,
@@ -3914,6 +3914,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .navbar-fixed-top {
   top: 0;
   border-width: 0 0 1px;
+
 }
 .navbar-fixed-bottom {
   bottom: 0;
